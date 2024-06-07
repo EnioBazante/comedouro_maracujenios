@@ -1,6 +1,6 @@
 # Comedouro Automático para Pets
 ---
-Bem-vindo ao repositório do Comedouro Automático para Pets! Este projeto visa criar um sistema automatizado utilizando Arduino para alimentar seu animal de estimação em horários programados, garantindo que seu pet seja alimentado mesmo quando você não estiver em casa.
+Bem-vindo ao repositório do Comedouro Automático para Pets! Este projeto visa criar um sistema automatizado utilizando Arduino para alimentar seu animal de estimação em horários programados.
 
 Este projeto foi desenvolvido para facilitar a vida dos donos de pets, permitindo a programação de horários específicos para a alimentação dos animais. Com este sistema, você pode assegurar que seu pet receberá a quantidade correta de comida nos horários certos, mesmo quando você estiver ausente.
 
